@@ -1,0 +1,49 @@
+.container{
+    width: 1050px;
+}
+
+.side {
+    position: absolute;
+    width: 360px;
+    background-color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main {
+    position: relative;
+    margin-left: 360px;
+    min-height: 100%;
+    padding: 20px;
+}
+
+.header{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 25px;
+   background-image: url(https://ww1.sinaimg.cn/large/006gFOhdly1g0rry6gybaj305k06ot8l.jpg);
+    /*background-color: rgba(0, 0, 0, 0.37);*/
+    background-size: 100%;
+    /*background-size: 100%;*/
+    background-position: center;
+    border-radius: 50%;
+    border: 5px solid #607d8b;
+    width: 160px;
+    height: 160px;
+}
+.left-label{
+    display: inline-block;
+    width: 120px;
+}
+.work-left{
+    display: inline-block;
+    width: 340px;
+}
+.me-jie{
+    margin-left: 20px;
+}
+
+.le {
+    margin-top: -10px;
+    margin-left: 122px;
+    margin-bottom: 20px;
+}
